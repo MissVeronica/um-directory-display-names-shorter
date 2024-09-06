@@ -13,4 +13,4 @@ Extension to Ultimate Member for truncating long display names in Members Direct
 None
 
 ## Installation & Updates
-Download the zip file and install as a WP Plugin, activate the plugin.
+Download the zip file from the green Code button and install as a WP Plugin, activate the plugin.
